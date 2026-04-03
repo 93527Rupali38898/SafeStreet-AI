@@ -20,10 +20,10 @@ Unlike traditional CCTV systems that only record, this system actively **analyze
 
 ## ✨ Key Features
 
-* 🧠 **Spatio-Temporal Understanding** (captures motion, not just objects)
-* ⚖️ **Balanced Training (50-50 dataset)** to avoid bias
-* ⚡ **3-Chunk Sampling (Memory Efficient)**
-* 🎯 **Max-Pooling Decision Logic** for final alert
+* **Spatio-Temporal Understanding** (captures motion, not just objects)
+* **Balanced Training (50-50 dataset)** to avoid bias
+* **3-Chunk Sampling (Memory Efficient)**
+* **Max-Pooling Decision Logic** for final alert
 
 ---
 
@@ -63,8 +63,8 @@ SafeStreet-AI/
  ├── streetAi.ipynb
  ├── requirements.txt
  ├── images/
- │    ├── normal.png
- │    └── violence.png
+ │    ├── normal.jpeg
+ │    └── fight.jpeg
  └── README.md
 ```
 
